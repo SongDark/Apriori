@@ -19,4 +19,4 @@ python main.py
 - [Frequent Itemset Mining Dataset Repository](http://fimi.ua.ac.be/data/)
 - [UCI mushroom](http://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/)
 - [mushroom dataset (divided)](https://github.com/aksnzhy/xlearn/tree/master/demo/classification/mushroom)
-- [My blog in Chinese](https://mp.csdn.net/postedit/80398819)
+- [My blog in Chinese](https://blog.csdn.net/songbinxu/article/details/80398819)
